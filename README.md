@@ -1,4 +1,4 @@
-##One-Class Support Vector Machines
+*One-Class Support Vector Machines*:
 one-class SVM is not used to perform binary or multiclass classification tasks but to detect outliers or novelties within the dataset. 
 The heart of OCSVM lies in its commitment to maximizing the margin between the normal instances and the boundary. 
 A larger margin provides a robust separation, enhancing the model's ability to discern anomalies during testing. 
