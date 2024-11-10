@@ -3,3 +3,4 @@ one-class SVM is not used to perform binary or multiclass classification tasks b
 The heart of OCSVM lies in its commitment to maximizing the margin between the normal instances and the boundary. 
 A larger margin provides a robust separation, enhancing the model's ability to discern anomalies during testing. 
 achieved through a specified kernel function and a nuanced parameter termed "nu." This parameter acts as an upper limit on the fraction of margin errors and support vectors
+![credit-card-fraud-detection](https://github.com/user-attachments/assets/0cacc82c-3583-49fd-8946-875f3d0e0f99)
