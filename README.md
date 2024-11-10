@@ -10,4 +10,4 @@ achieved through a specified kernel function and a nuanced parameter termed "nu.
 The training process involves fitting the One-Class SVM model to the normal data points. The algorithm learns a hyperplane (or decision boundary) that separates the normal data points from the origin in the transformed feature space.
 
 
-             ![credit-card-fraud-detection](https://github.com/user-attachments/assets/0cacc82c-3583-49fd-8946-875f3d0e0f99)
+![credit-card-fraud-detection](https://github.com/user-attachments/assets/0cacc82c-3583-49fd-8946-875f3d0e0f99)
