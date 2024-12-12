@@ -1,4 +1,4 @@
-*One-Class Support Vector Machines*:
+**One-Class Support Vector Machines**:
 
 One-Class Support Vector Machine (One-Class SVM) is an anomaly detection algorithm used to detect outliers or anomalies in a dataset where the majority of data points belong to one class. It is particularly useful when dealing with unbalanced datasets or when only normal data is available for training.
 
