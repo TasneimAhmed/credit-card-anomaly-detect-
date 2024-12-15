@@ -26,6 +26,8 @@ One-Class SVM is not a standard classification tool but a specialized anomaly de
 It is sensitive to the choice of kernel and nu parameter. Careful tuning can greatly enhance its performance.
 It excels in unsupervised anomaly detection tasks where labeled data is limited or unavailable.
 
-## Dataset URL: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+## Dataset URL: 
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
 
 ![credit-card-fraud-detection](https://github.com/user-attachments/assets/0cacc82c-3583-49fd-8946-875f3d0e0f99)
